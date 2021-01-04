@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Vinneta';
+    src: url('Vinneta-Regular.eot');
+    src: local('Vinneta-Regular'),
+        url('Vinneta-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Vinneta-Regular.woff2') format('woff2'),
+        url('Vinneta-Regular.woff') format('woff'),
+        url('Vinneta-Regular.ttf') format('truetype'),
+        url('Vinneta-Regular.svg#Vinneta-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
